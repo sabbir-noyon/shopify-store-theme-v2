@@ -1,0 +1,24 @@
+{
+	"name": "s-h-advanced-2",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx @tailwindcss/cli -i ./assets/tailwind-input.css -o ./assets/tailwind-output.css --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sabbir-noyon/s-h-advanced-2.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sabbir-noyon/s-h-advanced-2/issues"
+	},
+	"homepage": "https://github.com/sabbir-noyon/s-h-advanced-2#readme",
+	"dependencies": {
+		"@tailwindcss/cli": "^4.1.13",
+		"tailwindcss": "^4.1.13"
+	}
+}
